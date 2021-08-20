@@ -1,6 +1,6 @@
 🤔 Everything started just like a hobby.
 
-I graduated as mechanical engineer with machine design specification, and started work like that at Pauger Cardon Ltd.
+I graduated as mechanical engineer with machine design specification, and started work like that at Pauger Carbon Ltd.
 
 During my works I noticed the opportunity that I could automate my and others work to spare time and money, make the processes faster. So I started learn VBA for Excel and later Python from books, online videos and online courses. I learnt some HTML and CSS and to use Git. 🌱
 
