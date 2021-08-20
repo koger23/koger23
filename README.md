@@ -2,7 +2,7 @@
 
 I graduated as mechanical engineer with machine design specification, and started work like that at Pauger Cardon Ltd.
 
-During my works I noticed the opportunity that I could automate my and others work to spare time and money, make the processes faster. So I started learn VBA for Excel and later Python from books, online videos and online courses. I learnt some HTML and CSS and to use Git.
+During my works I noticed the opportunity that I could automate my and others work to spare time and money, make the processes faster. So I started learn VBA for Excel and later Python from books, online videos and online courses. I learnt some HTML and CSS and to use Git. 🌱
 
 I worked as process engineer on my second workplace at Musashi Hungary Manufacturing Ltd. where I could make a lot advantage on automations, because we had many data collected on an SQL server, but all the reports were made manually, so I automated reporting with Python, which was great and useful for everyone, because it sent report hourly about the production via email as well. I also made smaller applications to make our lifes easier, like file converters for measuring machines etc. Of course I write these programs after work in my free time first.
 
@@ -12,11 +12,12 @@ After finishing the bootcamp I started work by evoCRM Ltd. where we are dealing 
 
 My main path is the Dynamics 365 CRM and model-driven apps, but I also work with Power Automate cloud flows, Power Apps (canvas apps) and SharePoint as well.
 
-Meanwhile I am learning and dealing with other stuffs as well, like Angular to build greater single page applications with .NET core backend or Arduino for home automation or other ideas to mention. I try to make some blog posts about some of these projects on this site to share knowledge and experience.
+Meanwhile I am learning and dealing with other stuffs as well, like Angular to build greater single page applications with .NET core backend which I really like or Arduino for home automation or other ideas to mention. I try to make some blog posts about some of these projects on this site to share knowledge and experience.
 
-Thank you for reading through, if you have any questions or interesting topic just contact me.
+Thank you for reading through, if you have any questions or interesting topic just contact me 📫.
 
 Cheers,
+
 Gergely
 
 <!--
