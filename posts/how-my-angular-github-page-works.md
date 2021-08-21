@@ -1,0 +1,1 @@
+I start my first post with presenting how this page works under the hood, how I store the posts and the content of the other pages and how they are being rendered.
