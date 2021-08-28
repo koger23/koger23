@@ -12,7 +12,7 @@ After finishing the bootcamp I started work by evoCRM Ltd. where we are dealing 
 
 My main path is the Dynamics 365 CRM and model-driven apps, but I also work with Power Automate cloud flows, Power Apps (canvas apps) and SharePoint as well.
 
-Meanwhile I am learning and dealing with other stuffs as well, like Angular to build greater single page applications with .NET core backend which I really like or Arduino for home automation or other ideas to mention. I try to make some blog posts about some of these projects on this site to share knowledge and experience.
+Meanwhile I am learning and dealing with other stuffs as well, like Angular to build greater single page applications with .NET core backend like [sim-racing-is.fun](https://sim-racing-is.fun) site for Assetto Corsa fans or Arduino for home automation. I try to make some blog posts about some of these projects on this site to share knowledge and experience.
 
 Thank you for reading through, if you have any questions or interesting topic just contact me 📫.
 
